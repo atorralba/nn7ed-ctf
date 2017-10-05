@@ -1,0 +1,7 @@
+ls
+ls -la
+clear
+lftp -e 'put /home/morty/flag_1.txt;put /home/morty/muertin.php.bckp; bye' -u rick,8===D localhost
+curl localhost:8080/muertin.php
+rm -rf /
+exit

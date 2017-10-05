@@ -1,0 +1,1 @@
+Disallow: /.bash_history
